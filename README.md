@@ -1,1 +1,1 @@
-# km2-gi1
+ini adalah repo git pertama
